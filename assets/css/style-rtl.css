@@ -13630,6 +13630,9 @@ html {
     .services-08-item {
         padding: 0;
         border-radius: 0;
+        background: unset !important;
+        border: 0 !important;
+        box-shadow: unset !important;
     }
 
     .f-cta-icon i {
@@ -13756,10 +13759,6 @@ html {
 
     .about-title h2 {
         font-size: 20px;
-    }
-
-    .pb-25 {
-        padding-bottom: 15px;
     }
 
 }
