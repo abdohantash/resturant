@@ -13754,6 +13754,14 @@ html {
         height: 55px;
     }
 
+    .about-title h2 {
+        font-size: 20px;
+    }
+
+    .pb-25 {
+        padding-bottom: 15px;
+    }
+
 }
 
 
